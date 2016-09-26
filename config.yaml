@@ -1,7 +1,7 @@
 app_type: web
 browser: chrome
 execution_mode: remote
-server: http://localhost:9515/wd/hub
+server: http://localhost:9515
 implicit_wait_timeout: 5
 ajax_timeout: 30
 wait_timeout: 30
